@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="300"
+    android:viewportHeight="300">
+    <group android:scaleX="0.0046296"
+        android:scaleY="0.0046296"
+        android:translateX="15"
+        android:translateY="15">
+        <g android:fillColor="#ffffff">
+            <rect android:x="40" android:y="40" android:width="50" android:height="50" />
+            <rect android:x="125" android:y="40" android:width="50" android:height="50" />
+            <rect android:x="210" android:y="40" android:width="50" android:height="50" />
+            <rect android:x="40" android:y="125" android:width="50" android:height="50" />
+            <rect android:x="125" android:y="125" android:width="50" android:height="50" />
+            <rect android:x="210" android:y="125" android:width="50" android:height="50" />
+            <rect android:x="40" android:y="210" android:width="50" android:height="50" />
+            <rect android:x="125" android:y="210" android:width="50" android:height="50" />
+            <rect android:x="210" android:y="210" android:width="50" android:height="50" />
+        </g>
+    </group>
+</vector>
